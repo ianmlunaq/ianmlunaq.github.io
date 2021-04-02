@@ -1,0 +1,49 @@
+a:link, a:visited {
+    color: cornflowerblue;
+    }
+a:hover, a:active {
+    color: lightslategray;
+    }
+body {
+    background-color: black;
+    font-family: Helvetica, sans-serif;
+    }
+
+p {
+    color: white;
+    text-align: center;
+    }
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    padding: 19px;
+    text-align: left;
+    color: white;
+    border: 4.2px solid cornflowerblue;
+    border-radius: 8.4px;
+  }
+
+table, th, td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid wheat;
+    border-collapse: collapse;
+    color: white;
+    text-align: center;
+}
+
+.title {
+    font-size: xx-large;
+}
+
+.pcpp-part-list-type {
+    color: white;    
+}
+
+.pcpp-part-list {
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+    text-align: center;
+}
+
