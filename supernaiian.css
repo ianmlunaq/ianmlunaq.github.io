@@ -28,3 +28,11 @@ h1 {
     border: 4.2px solid cornflowerblue;
     border-radius: 8.4px;
   }
+
+.topnav {
+    color: red
+}
+
+.bodybuttons{
+    color: red
+}
