@@ -29,10 +29,11 @@ h1 {
     border-radius: 8.4px;
   }
 
-.topnav {
-    color: red
+.topnav a{
+    background-color: red !important;
+    display: initial !important;
 }
 
 .bodybuttons{
-    color: red
+    color: red;
 }
